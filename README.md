@@ -9,4 +9,5 @@ I jus made my trial webpage on [GitHub](http://github.com)
 And here is a table:
 
 Tit1 | Tit2
+------------
 col1 | Col2
